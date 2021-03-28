@@ -1,0 +1,3 @@
+- 👋 Hi
+- I’m a software engineer in CAD
+- I’m interested in C++, Python
